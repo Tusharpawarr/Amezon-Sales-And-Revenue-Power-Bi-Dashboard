@@ -1,3 +1,4 @@
+![Logo](![Power-BI-logo-v2](https://github.com/Tusharpawarr/Amezon-Sales-And-Revenue-Power-Bi-Dashboard/assets/85615967/fff12850-8b22-43de-a205-2b7ab54467d9)
 
 # Amezon Sales and Revenue Power Bi Dashboard
 
