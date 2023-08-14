@@ -18,5 +18,3 @@ Extracted relevant sales and revenue data from Amazon's databases
 
 ![Revenue](https://github.com/Tusharpawarr/Amezon-Sales-And-Revenue-Power-Bi-Dashboard/assets/85615967/bdee0eb9-48b6-4e4a-b1c1-9f01883c5683)
 
-
-![Power-BI-logo-v2](https://github.com/Tusharpawarr/Amezon-Sales-And-Revenue-Power-Bi-Dashboard/assets/85615967/cd8a7966-0628-4a36-bf84-5e78413d23e2)
